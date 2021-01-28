@@ -2,3 +2,5 @@
 
 
 [![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tehw0lf&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/tehw0lf)
+
+![Profile visitors](https://profile-counter.glitch.me/tehw0lf/count.svg)
